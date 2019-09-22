@@ -1,0 +1,6 @@
+﻿  GameServer.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): note: command-line arguments:  see previous definition of '_WINSOCKAPI_'
+c:\users\b6069733\visual projects\techies\csc8503server\csc8503\csc8503common\gameserver.cpp(63): warning C4715: 'NCL::CSC8503::GameServer::SendGlobalPacket': not all control paths return a value
+QuadTree.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  CSC8503Common.vcxproj -> C:\Users\b6069733\VIsual Projects\techies\CSC8503server\Win32\Debug\CSC8503Common.lib

@@ -1,0 +1,4 @@
+﻿  gamestatemachine.cpp
+StateTransition.obj : warning LNK4221: Este archivo de objeto no define ning·n sÝmbolo p·blico que no se haya definido previamente, por lo que no se usarß en ninguna vinculaci¾n que utilice esta biblioteca
+QuadTree.obj : warning LNK4221: Este archivo de objeto no define ning·n sÝmbolo p·blico que no se haya definido previamente, por lo que no se usarß en ninguna vinculaci¾n que utilice esta biblioteca
+  CSC8503Common.vcxproj -> D:\Descargas\techies\CSC8503server\Win32\Debug\CSC8503Common.lib
